@@ -17,4 +17,4 @@ Founder in Santiago, Chile 🇨🇱. I build and run AI-native software companie
 
 **Find me**
 
-[falconagent.ai](https://falconagent.ai)
+[falconagent.ai](https://falconagent.ai) · [LinkedIn](https://www.linkedin.com/in/jorge-guzman-zamarin/)
