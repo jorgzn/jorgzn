@@ -4,10 +4,9 @@ Founder in Santiago, Chile 🇨🇱. I build and run AI-native software companie
 
 **What I'm working on**
 
-- 🦅 **[Falcon](https://falconagent.ai)** — an AI sales and support teammate for LATAM businesses. It answers ad leads on WhatsApp in seconds, qualifies them, books demos and handles support, inside one inbox.
-- 🦜 **Parrotfy** — cloud ERP for small and mid-sized businesses in Chile.
-- 🖨️ **Twist Print** — management software for print shops in the Americas.
-- 🚀 **Moonshot** — the studio where these products are built: AI-first, automated by default, ultra-light headcount.
+- 🦅 **[Falcon Agent](https://falconagent.ai)** — an AI sales and support teammate for LATAM businesses. It answers ad leads on WhatsApp in seconds, qualifies them, books demos and handles support, inside one inbox.
+- 🦜 **Parrotfy** (co-founder & CEO) — all-in-one management platform for small and mid-sized businesses in Chile.
+- 🖨️ **Twist Print** (co-founder) — cloud operating system for print shops in the Americas.
 
 **How I work**
 
