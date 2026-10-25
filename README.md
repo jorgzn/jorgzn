@@ -17,3 +17,6 @@ Founder in Santiago, Chile 🇨🇱. I build and run AI-native software companie
 **Find me**
 
 [falconagent.ai](https://falconagent.ai) · [LinkedIn](https://www.linkedin.com/in/jorge-guzman-zamarin/)
+### 🏆 My GitHub Ranking
+
+[![GitHub Commits Badge](https://ghcommits.com/api/badge/jorgzn.svg)](https://ghcommits.com/u/jorgzn)
